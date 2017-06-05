@@ -1,0 +1,102 @@
+body {
+	background-image: url("../images/bg.gif");
+	background-repeat: no-repeat;
+}
+
+.header {
+	height: 200px;
+}
+
+.main {
+	height: 450px;
+}
+
+.footer {
+	height: 100px;
+}
+
+.hud {
+	text-align: center;
+	padding-top: 20px;
+}
+
+h4 {
+	font-family: 'Raleway', sans-serif;
+	text-transform: uppercase;
+}
+
+.heartMonitor {
+	margin-top: -10px;
+}
+
+.heart {
+	display: inline;
+}
+
+.heart img {
+	height: 20px;
+}
+
+h1{
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 350%;
+	margin: 0;
+	margin-top: 10px;
+	margin-bottom: -25px;
+}
+
+#age p {
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 800;
+	margin: 0;
+}
+
+#age span {
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 800;
+	font-size: 250%;
+}
+
+.hungerMeter {
+	width: 200px;
+	float: right;
+	text-align: center;
+}
+
+.hungerMeter h1 {
+	margin-top: -10px;
+}
+
+button {
+	width: 120px;
+	margin-top: 10px;
+}
+
+button span {
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 800;
+	font-size: 150%;
+}
+
+#dogSpace {
+	display: flex;
+	justify-content: center;
+}
+
+#dogSpace img {
+	margin-top: 200px;
+	margin-bottom: 10px;
+	height: 200px;
+}
+
+.actionButtons {
+	display: flex;
+	justify-content: center;
+}
+
+.actionButtons button {
+	margin: 0 10px;
+}
